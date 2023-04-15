@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Killers Pacakges",
+    "id":"com.killers.list",
+    "url":"https://vrc-packages.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"killers0992@gmail.com",
+        "name":"Killers0992",
+        "url":"https://github.com/Killers0992"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"My packages created for community.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/VRC-Packages/template-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
